@@ -1,4 +1,4 @@
-# "Node JS Tutorial Series - MongoDB with Mongoose: Async CRUD"
+# "Node JS Tutorial Series - Refresh Token Rotation and Reuse Detection"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
@@ -9,9 +9,9 @@ _Remember to add your .env variables in the deployed version_
 
 **Description:**
 
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js & Express for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
+This repository shares the code applied during the Youtube tutorial. The tutorial could be considered a bonus chapter for the [Node.js & Express for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
 
-[YouTube Tutorial](https://youtu.be/AWlLhRQJvtw) for this repository.
+[YouTube Tutorial](https://youtu.be/s-4k5TcGKHg) for this repository.
 
 I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
